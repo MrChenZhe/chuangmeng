@@ -11,7 +11,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 //崔志凡带我非
 @SpringBootApplication//sdasdasdadsa
 //chengzhedalaodaiwofei
-public class EurekaApplication {
+public class EurekaApplication {//111
 //大苏打实打实大苏打倒萨交付给事件的发生刚刚热辣黄山警方开始开发是会计法上空的飞机看点士肯德基公共机构尽快发给杀毒过速度快是国家讲课
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaApplication.class, args);
