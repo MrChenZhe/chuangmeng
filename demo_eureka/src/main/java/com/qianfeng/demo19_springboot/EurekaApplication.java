@@ -8,6 +8,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 //邹明明大佬带我飞啊
 @EnableEurekaServer
 //好的呀
+//崔志凡带我非
 @SpringBootApplication//sdasdasdadsa
 //chengzhedalaodaiwofei
 public class EurekaApplication {
